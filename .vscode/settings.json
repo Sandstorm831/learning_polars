@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#7ef3c9",
+        "activityBar.background": "#7ef3c9",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#c26df1",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#7ef3c9",
+        "statusBar.background": "#4fefb6",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#20eba3",
+        "statusBarItem.remoteBackground": "#4fefb6",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#4fefb6",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#4fefb699",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#4fefb6",
+    "python.analysis.extraPaths": [
+        "./venv/lib/python3.12/site-packages" // for finding the packages installed in the virtual environment venv
+    ]
+}
