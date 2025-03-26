@@ -1,3 +1,6 @@
 polars
 ipykernel
 numpy
+fastexcel
+xlsxwriter
+polars_talib
